@@ -1,0 +1,18 @@
+
+p{
+    color:blue;
+    font-size: 40px;
+}
+/* class */
+.parrafo{
+    color: red;
+}
+/* ID */
+#texto {
+    color: yellow;
+    font-size: 24px;
+}
+
+body{
+    background: rgb(61, 115, 165);
+}
